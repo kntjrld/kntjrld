@@ -10,7 +10,6 @@
 <h4 align="left">I code/used :</h4>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -44,4 +43,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kntjrld&" alt="kntjrld" /></p>
+<div align="center">
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kntjrld&" alt="kntjrld"/></p>
+</div>
